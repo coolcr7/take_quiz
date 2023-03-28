@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/take_a_quiz/static/css/main.e74b21d2.css",
+    "main.js": "/take_a_quiz/static/js/main.dbd6ddf6.js",
+    "index.html": "/take_a_quiz/index.html",
+    "main.e74b21d2.css.map": "/take_a_quiz/static/css/main.e74b21d2.css.map",
+    "main.dbd6ddf6.js.map": "/take_a_quiz/static/js/main.dbd6ddf6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e74b21d2.css",
+    "static/js/main.dbd6ddf6.js"
+  ]
+}
